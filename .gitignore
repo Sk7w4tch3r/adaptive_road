@@ -1,0 +1,9 @@
+*.ini
+build/
+output/
+render/
+lab/
+.vscode/
+*archive/
+*.glb
+__pycache__/
